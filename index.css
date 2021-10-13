@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+h2 {
+      text-align: center;
+      background-color: white;
+      color: black;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+
+table {
+  height: 40%;
+  left: 10%;
+  overflow-y: scroll;
+  margin: 25px auto;
+  position: static;
+  width: 80%;
+}
+
+thead th {
+  background:cadetblue;
+  color: #FFF;
+  font-family:monospace;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.code {
+  font-weight: bold;
+  font-family: monospace;
+}
+
+:scope {
+  text-align: center;
+}
